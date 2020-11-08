@@ -2,7 +2,8 @@
     margin: 15px 0;
     transform: rotate(45deg);
 }
-#plc{
+#el
+plc{
     cursor: pointer;
     transition: all ease 3s;
 }
