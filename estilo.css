@@ -5,7 +5,7 @@
 #el
 plc{
     cursor: pointer;
-    transition: all ease 3s;
+    transition: all ease 6s;
 }
 #plc:hover{
     transform: scale(2,8);
